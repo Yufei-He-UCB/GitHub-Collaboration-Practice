@@ -1,2 +1,2 @@
 Group Project
- Degree Programs & Research Interests of Members
+ Degree Programs & Research Interests of Members:
